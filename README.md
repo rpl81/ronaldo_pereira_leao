@@ -7,11 +7,11 @@ Este repositório reúne projetos, estudos e experimentos em **Ciência de Dados
 - Segurança e Saúde do Trabalho
 - Indicadores, métricas e tomada de decisão baseada em dados
 
-## 🎯 Objetivo
+##  Objetivo
 
 Centralizar análises técnicas e projetos práticos, utilizando dados reais, com abordagem analítica, crítica e orientada a valor.
 
-## 🧠 Temas abordados
+##  Temas abordados
 
 - Análise de acidentes e incidentes
 - Risco rodoviário e mobilidade
@@ -19,7 +19,7 @@ Centralizar análises técnicas e projetos práticos, utilizando dados reais, co
 - Visualização de dados e mapas (2D e 3D)
 - Integração de dados operacionais e contextuais
 
-## 🛠️ Ferramentas e tecnologias
+##  Ferramentas e tecnologias
 
 - Python (pandas, geopandas, matplotlib, folium, etc.)
 - Jupyter Notebook
@@ -28,7 +28,7 @@ Centralizar análises técnicas e projetos práticos, utilizando dados reais, co
 - Google Earth / My Maps
 - KNIME
 
-## 📂 Estrutura do repositório
+## Estrutura do repositório
 
 ```text
 ├── data/        # Bases de dados (brutas ou tratadas)
