@@ -9,7 +9,7 @@ Este repositório reúne projetos, estudos e experimentos em **Ciência de Dados
 
 ##  Objetivo
 
-Centralizar análises técnicas e projetos práticos, utilizando dados reais, com abordagem analítica, crítica e orientada a valor.
+Centralizar análises técnicas e projetos , utilizando dados, com abordagem analítica, crítica e orientada a valor.
 
 ##  Temas abordados
 
@@ -23,6 +23,7 @@ Centralizar análises técnicas e projetos práticos, utilizando dados reais, co
 
 - Python (pandas, geopandas, matplotlib, folium, etc.)
 - Jupyter Notebook
+- Google Collab
 - SQL
 - Power BI / Excel
 - Google Earth / My Maps
