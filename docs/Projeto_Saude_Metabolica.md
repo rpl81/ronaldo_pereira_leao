@@ -5,7 +5,7 @@
 
 ## 1. 📄 Prefácio do Especialista
 > "A transição da saúde reativa para a saúde preditiva não é uma escolha tecnológica, é um imperativo ético. No Lipid Analytics, tratamos cada batimento cardíaco e cada watt de potência gerado como uma transação de dados em um livro-razão de longevidade e prevenção cardiovascular."
-> — **Ronaldo Pereira Leão**, Arquiteto de Soluções de Dados & Especialista em Segurança.
+> — **Ronaldo Pereira Leão**, Cientista  de Dados & Especialista em Saúde e Segurança do Trabalho.
 
 ---
 
@@ -155,7 +155,7 @@ O sistema foi desenhado para escalabilidade (Saúde Coletiva/Consultoria).
 
 ## 👨‍💻 Sobre o Autor
 **Ronaldo Pereira Leão**
-Especialista em Análise de Dados e Segurança de Sistemas com 20 anos de atuação profissional. Desenvolvedor de soluções que unem o rigor da engenharia de campo com a vanguarda da Ciência de Dados para promoção de saúde e longevidade.
+Especialista em Análise de Dados e Saúde e Segurança do Trabalho com 20 anos de atuação profissional. Desenvolvedor de soluções que unem o rigor da engenharia de campo com a vanguarda da Ciência de Dados para promoção de saúde e longevidade.
 
 ---
 *Documento gerado para fins de documentação de portfólio técnico.*
