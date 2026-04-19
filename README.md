@@ -1,38 +1,18 @@
-# Ronaldo Pereira Leão — Projetos de Ciência de Dados
+# Portfólio de Ciência de Dados — Ronaldo Pereira Leão
 
-Este repositório reúne projetos, estudos e experimentos em **Ciência de Dados aplicada**, com foco em:
+Bem-vindo ao meu repositório de projetos. Aqui apresento soluções estratégicas que unem 20 anos de experiência em segurança com inteligência de dados.
 
-- Análise de dados
-- Geolocalização e mapas de risco
-- Segurança e Saúde do Trabalho
-- Indicadores, métricas e tomada de decisão baseada em dados
+## 🚀 Projetos em Destaque
 
-##  Objetivo
+### 🏃 1. Lipid Analytics Professional (Saúde Metabólica)
+Digital Twin preditivo para monitorização de indicadores de saúde e longevidade.
+* **Foco:** Saúde Geral, Prevenção, Python, Modelagem Preditiva.
+* [👉 Ver Apresentação Completa do Projeto](./docs/Projeto_Saude_Metabolica.md)
 
-Centralizar análises técnicas e projetos , utilizando dados, com abordagem analítica, crítica e orientada a valor.
+### 🛣️ 2. Road Risk Geointelligence (Riscos Rodoviários)
+Pipeline de inteligência geográfica para mapeamento de riscos e altimetria automatizada.
+* **Foco:** Geoprocessamento, Segurança, KML, NASA SRTM, QGIS.
+* [👉 Ver Apresentação Completa do Projeto](./docs/Projeto_Riscos_Rodoviarios.md)
 
-##  Temas abordados
-
-- Análise de acidentes e incidentes
-- Risco rodoviário e mobilidade
-- Indicadores preditivos e proativos
-- Visualização de dados e mapas (2D e 3D)
-- Integração de dados operacionais e contextuais
-
-##  Ferramentas e tecnologias
-
-- Python (pandas, geopandas, matplotlib, folium, etc.)
-- Jupyter Notebook
-- Google Collab
-- SQL
-- Power BI / Excel
-- Google Earth / My Maps
-- KNIME
-
-## Estrutura do repositório
-
-```text
-├── data/        # Bases de dados (brutas ou tratadas)
-├── notebooks/   # Análises exploratórias e estudos
-├── scripts/     # Scripts reutilizáveis
-└── docs/        # Documentação e relatórios
+---
+*Nota: Devido a cláusulas de confidencialidade (NDA), os códigos-fonte originais e dados sensíveis não estão disponíveis publicamente. A documentação técnica foca na arquitetura e metodologia das soluções.*
